@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
     gap: 5,
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingBottom: 20
+    paddingVertical: 20
   },
   criadas: {
     color: '#4EA8DE',
